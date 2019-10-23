@@ -1,0 +1,11 @@
+C:\Users\atana\source\repos\Tree Of Numbers\Tree Of Numbers\bin\Debug\netcoreapp2.2\Tree Of Numbers.deps.json
+C:\Users\atana\source\repos\Tree Of Numbers\Tree Of Numbers\bin\Debug\netcoreapp2.2\Tree Of Numbers.runtimeconfig.json
+C:\Users\atana\source\repos\Tree Of Numbers\Tree Of Numbers\bin\Debug\netcoreapp2.2\Tree Of Numbers.runtimeconfig.dev.json
+C:\Users\atana\source\repos\Tree Of Numbers\Tree Of Numbers\bin\Debug\netcoreapp2.2\Tree Of Numbers.dll
+C:\Users\atana\source\repos\Tree Of Numbers\Tree Of Numbers\bin\Debug\netcoreapp2.2\Tree Of Numbers.pdb
+C:\Users\atana\source\repos\Tree Of Numbers\Tree Of Numbers\obj\Debug\netcoreapp2.2\Tree Of Numbers.csprojAssemblyReference.cache
+C:\Users\atana\source\repos\Tree Of Numbers\Tree Of Numbers\obj\Debug\netcoreapp2.2\Tree Of Numbers.csproj.CoreCompileInputs.cache
+C:\Users\atana\source\repos\Tree Of Numbers\Tree Of Numbers\obj\Debug\netcoreapp2.2\Tree Of Numbers.AssemblyInfoInputs.cache
+C:\Users\atana\source\repos\Tree Of Numbers\Tree Of Numbers\obj\Debug\netcoreapp2.2\Tree Of Numbers.AssemblyInfo.cs
+C:\Users\atana\source\repos\Tree Of Numbers\Tree Of Numbers\obj\Debug\netcoreapp2.2\Tree Of Numbers.dll
+C:\Users\atana\source\repos\Tree Of Numbers\Tree Of Numbers\obj\Debug\netcoreapp2.2\Tree Of Numbers.pdb
